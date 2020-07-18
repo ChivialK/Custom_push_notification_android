@@ -1,17 +1,13 @@
 # custom_push
 
-A new Flutter project.
+Firebase messaging, work with background listener
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+It's not my work, I learn a medium story and modify it's with the recent version
+and Kotlin approach.
+You must push your google-services.json, in order to test
 
-A few resources to get you started if this is your first Flutter project:
+- [Medium article](https://medium.com/@demmydwirhamadan/working-well-firebase-cloud-messaging-push-notification-in-flutter-tested-on-android-4eb91f45d45)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
 # Custom_push_notification_android
